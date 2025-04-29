@@ -7,26 +7,19 @@
 ---
 
 ## 📝 Abstract
-本研究提出 **[创新点简述]**，用于解决 **[具体领域/问题]** 中的 **[关键挑战]**。通过在 **[数据集/基准名称]** 上的实验表明，我们的方法实现了：
-- **[指标1]**: XX% 提升（对比 [基线方法] 的 XX%）
-- **[指标2]**: XX% 改进（比现有 SOTA 高 XX%）
-- **[其他显著成果]**
+GenMAS, the AI-driven pharmacokinetic modeling and assessment strategy adaptable to various application scenarios, offers a promising non-animal alternative.
+---
 
-![Method Overview](overview.tif)
+## ✨ Key Modules
+- **AI-ADMET module**：Compound ADMET property prediction.
+- **AI-assist PBPK module**：AI parameter prediction incorporated into GastroPlus® PBPK model
+- **Self-built ADMET-PBPK HTS module**：compound property prediction and a custom-built PBPK model were packaged into a Python-based pipeline
 
 ---
 
-## ✨ 关键特性
-- **创新性**：[描述方法的独特之处]
-- **高效性**：[说明计算/时间优势]
-- **可扩展性**：[跨任务/领域的适用性]
-- **可复现性**：提供完整的代码、预训练模型和实验配置
-
----
-
-## 🚀 快速开始
-### 依赖安装
+## 🚀 Quick Start
+### Install
 ```bash
 conda create -n [env_name] python=3.8
 conda activate [env_name]
-pip install -r requirements.txt
+pip install rdkit, scikit-learn, torch, dgl
