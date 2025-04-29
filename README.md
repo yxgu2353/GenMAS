@@ -22,4 +22,4 @@ GenMAS, the AI-driven pharmacokinetic modeling and assessment strategy adaptable
 ```bash
 conda create -n [env_name] python=3.8
 conda activate [env_name]
-pip install rdkit, scikit-learn, torch, dgl
+pip install rdkit, scikit-learn, torch, dgl, dgllife
