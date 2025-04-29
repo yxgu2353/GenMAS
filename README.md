@@ -1,11 +1,8 @@
-# [研究项目名称]
+# [GenMAS:An Artificial Intelligence-Driven Pharmacokinetics Modelling and Assessment Strategy Incorporating ADMET and PBPK]
 
-[[arXiv 论文链接徽章]](https://arxiv.org/abs/xxx)  
-[[DOI 徽章]](https://doi.org/xxx)  
-[[数据集徽章]](https://zenodo.org/xxx)
 
-**研究团队**: [您的姓名/团队名称] @ [机构名称]  
-**最后更新**: 2023年X月
+**Our Group**: [Yaxin Gu†, Peng Qi†, Lingling Ma, Guodong Zhang*, Biao Lu, Fanglong Yang, Haizhou Zhang] @ [Changchun Genescience Pharma]  
+**最后更新**: 2025年4月
 
 ---
 
