@@ -12,8 +12,7 @@
 - **[指标2]**: XX% 改进（比现有 SOTA 高 XX%）
 - **[其他显著成果]**
 
-[可插入示意图/框架图，例如：]
-![Method Overview](docs/framework.png)
+![Method Overview](overview.tif)
 
 ---
 
