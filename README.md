@@ -1,12 +1,12 @@
-# [GenMAS:An Artificial Intelligence-Driven Pharmacokinetics Modelling and Assessment Strategy Incorporating ADMET and PBPK]
+# GenMAS:An Artificial Intelligence-Driven Pharmacokinetics Modelling and Assessment Strategy Incorporating ADMET and PBPK
 
 
-**Our Group**: [Yaxin Gu†, Peng Qi†, Lingling Ma, Guodong Zhang*, Biao Lu, Fanglong Yang, Haizhou Zhang] @ [Changchun Genescience Pharma]  
-**最后更新**: 2025年4月
+**Our Group**: Yaxin Gu†, Peng Qi†, Lingling Ma, Guodong Zhang*, Biao Lu, Fanglong Yang, Haizhou Zhang @ Changchun Genescience Pharma
+**Last Update**: 2025年4月
 
 ---
 
-## 📝 摘要
+## 📝 Abstract
 本研究提出 **[创新点简述]**，用于解决 **[具体领域/问题]** 中的 **[关键挑战]**。通过在 **[数据集/基准名称]** 上的实验表明，我们的方法实现了：
 - **[指标1]**: XX% 提升（对比 [基线方法] 的 XX%）
 - **[指标2]**: XX% 改进（比现有 SOTA 高 XX%）
