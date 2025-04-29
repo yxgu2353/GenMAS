@@ -2,7 +2,7 @@
 
 
 **Our Group**: Yaxin Gu†, Peng Qi†, Lingling Ma, Guodong Zhang*, Biao Lu, Fanglong Yang, Haizhou Zhang @ Changchun Genescience Pharma
-**Last Update**: 2025年4月
+**Last Update**: 2025.4
 
 ---
 
