@@ -69,7 +69,7 @@ python Scripts/ADMET_Predict.py
 ### 2. AI-PBPK Parameter Estimation
 Self-built PBPK model is available at Models/
 ```bash
-python Scripts/GenMAS_IV_PBPK.py
+AI-PBPK screening pipeline is available at Scripts/GenMAS_AI-PBPK.md
 ```
 
 
