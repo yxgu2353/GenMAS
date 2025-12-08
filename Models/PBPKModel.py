@@ -34,10 +34,10 @@ class EnhancedPBPKModel:
 
     def _validate_parameters(self, physio, drug):
         sum_Q = physio['Q_liver'] + physio['Q_kidney'] + physio['Q_other']
-        assert np.isclose(sum_Q, physio['Q_total'], rtol=0.01), "血流分配异常"
+        assert np.isclose(sum_Q, physio['Q_total'], rtol=0.01), 
 
         required_Kp = ['lung', 'liver', 'kidney', 'other']
-        assert all(k in drug['Kp'] for k in required_Kp), "缺失Kp值"
+        assert all(k in drug['Kp'] for k in required_Kp),
 
     def _ode_system(self, y, t):
         C_ven, C_art, C_lun, C_liv, C_kid, C_rem = y
@@ -83,3 +83,4 @@ class EnhancedPBPKModel:
         y0 = [dose, 0, 0, 0, 0, 0]
         sol = odeint(self._ode_system, y0, t)
         return t, sol
+
