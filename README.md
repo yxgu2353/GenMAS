@@ -1,6 +1,6 @@
 # GenMAS: An Artificial Intelligence-Driven Pharmacokinetics Modelling and Assessment Strategy Incorporating ADMET and PBPK
 
-**Our Group**: Yaxin Gu†, Peng Qi†, Lingling Ma, Guodong Zhang*, Biao Lu, Fanglong Yang, Haizhou Zhang  
+**Our Group**: Yaxin Gu†, Peng Qi†, Lingling Ma, Guodong Zhang, Biao Lu, Fanglong Yang, Haizhou Zhang, Xiaozhen Wang, Hongcan Ren*  
 **Affiliation**: Changchun Genescience Pharma  
 **Last Update**: June 2025
 
